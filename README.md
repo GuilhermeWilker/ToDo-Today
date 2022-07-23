@@ -9,6 +9,9 @@
 <p align="center">
 <img width="510px" src="src/imagens/readME-images/Demonstracao.png" alt="Demonstração do To-do" />
 </p>
+<p align="center">
+<img width="510px" src="src/imagens/readME-images/Demonstracao.gif" alt="Demonstração do To-do" />
+</p>
 Simples e funcional, nosso To-do traz as principais características para gerenciar suas atividades de estudos ou trabalho.<br />
 <a href="https://guilhermewilker.github.io/ToDo-Today/" target="_blank">🔗Clique aqui e use agora mesmo!</a>
 
